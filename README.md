@@ -1,6 +1,6 @@
-# analisePreditivaN3
+# analisePreditivaN3 - Feito por Eduardo A. Ferreira e Wilson R. Marutti
 
-# Problema:
+# Problema
 
 Uma grande empresa deseja entender o padrão de idade de seus funcionários com base em certos atributos, como sexo, escolaridade, nível do cargo e salário anual. A previsão precisa da idade dos funcionários pode auxiliar em planejamentos relacionados a programas de treinamento, benefícios e aposentadoria.
 
@@ -8,7 +8,7 @@ A empresa possui um banco de dados MongoDB onde armazena informações sobre seu
 
 O objetivo é desenvolver um modelo de aprendizado de máquina que possa prever a idade de um funcionário com base nesses atributos, a fim de entender melhor a distribuição etária da empresa e auxiliar nas decisões estratégicas.
 
-# Solução de Análise Preditiva:
+# Solução de Análise Preditiva
 
 O código fornecido efetua as seguintes ações para resolver o problema:
 
@@ -26,7 +26,7 @@ O código fornecido efetua as seguintes ações para resolver o problema:
 
 - **Avaliação do Modelo:** O modelo treinado é usado para fazer previsões no conjunto de teste, e sua acurácia é calculada.
 
-# Sugestões de Melhoria:
+# Sugestões de Melhoria
 
 - **Ajuste de Hiperparâmetros:** Podemos ajustar os hiperparâmetros do RandomForestClassifier (como n_estimators, max_depth, etc.) para otimizar o desempenho.
 
